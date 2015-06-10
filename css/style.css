@@ -1,0 +1,25 @@
+
+header{
+	position: absolute;
+	top:0;
+	left: 0;
+	right: 0;
+  	height: 120px;
+	border-bottom: 1px solid #000 ;
+  	background-color: #4BC7E4;
+  	padding-left: 120px;
+}
+
+section{
+	position: absolute;
+	top: 120px;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background: #fff;
+  	padding: 20px 120px;
+  	/*width: 70%;*/
+}
+.label{
+	font-size: 100%;
+}
